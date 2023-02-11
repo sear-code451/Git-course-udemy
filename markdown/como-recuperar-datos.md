@@ -2,6 +2,8 @@
 
 ## Proceso de como recuperar todo la informacion de un commit:
 
+[Enlace en donde se aprendió](https://www.bufa.es/git-borrar-archivos-carpetas/#:~:text=Para%20borrar%20archivos%20o%20carpetas%20tambi%C3%A9n%20%C2%ABarriba%C2%BB%20en,repositorio%20Este%20post%20ha%20sido%20archivado%20en%20Git.)
+
 1. Primero debemos de identificar que commit queremos cargar. Sería de la siguiente manera para poder hacerlo:
 ~~~
 // Escribirlo en la terminal
