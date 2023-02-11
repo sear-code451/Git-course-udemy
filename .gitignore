@@ -1,8 +1,8 @@
 
 node_modules/
 
-__MACOSX
+__MACOSX/
 
-01-bases
+01-bases/
 
 /markdown/*.txt
